@@ -1,1 +1,1 @@
-this commmit will be reverted
+This commit will be reverted.
